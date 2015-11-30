@@ -409,7 +409,7 @@ public class TokenLTPAFactory {
 			System.out.println( " Where: -d<1|2>=decode -e<1|2>=encode <1=LTPA 1 and 2=LTPA 2>");
 			System.exit(0);
 		} // if
-			TokenLTPAFactory factory = new TokenLTPAFactory( "C:\\Users\\vbc00297.CH2K\\workspace\\WASLTPA\\src\\keys.was85.properties" );		
+			TokenLTPAFactory factory = new TokenLTPAFactory( "C:\\webdev\\git\\WASLTPA\\src\\keys.was85.properties" );		
 			TokenLTPAFactory.LTPA_VERSION ltpaVersion = args[0].contains( "1" ) ? 
 					TokenLTPAFactory.LTPA_VERSION.LTPA : TokenLTPAFactory.LTPA_VERSION.LTPA2;
 		String token;

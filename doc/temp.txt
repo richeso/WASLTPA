@@ -32,3 +32,25 @@ PlainToken=mj2X8oL0gcF7eIRmzSbRhNa+jWkO3Pf2+m7VrNOG1jGGxLhBlwpL1V2nS6/bTHxDrrDgt
 Spoof LTPA Token with changed time via URL in Chrome
 -----------------------------------------------------
 javascript:document.cookie="LtpaToken2=mj2X8oL0gcF7eIRmzSbRhNa+jWkO3Pf2+m7VrNOG1jGGxLhBlwpL1V2nS6/bTHxDrrDgtD4hwKJjCLwqv81qTzk5uOjM2xQEGvxYNyq+n/WYOAS+Y0AqXp80EUVIdJU3wgDlyR3AwcM0FS8QYRYK3PCIs7lziu1ExkVKQ9TS8SXFNPieusMFNRlUN826Rb/eyhVYXGxQp/BhwhhUnV3111Kup1BwS/m5O3AqHn5W79QIQpGYHo1XHlGOmd7a+5Bc/+V+b17pK/Fq2FgEdHgt2c5goy5OmxHq3haaZevV49y58wfdSGmnVu4q4tAIZuZKfy2UVxCioqk3TGcCuKORuhnoIjBLdseLhyyrDXbnavByy3I4p9dhyCdz1SEV4C4NsOl+qdF/YNLH3Q5wBx3hl45MwLYoIP/HMGm9RR1Rgk5Cnb760pjYBZCGqpzzbC8saqQ0tXCvInrKHfoCzHZYIW4j7HmMi1/znqzNI+S/g1I17+eT8R3IntbMGhhcDuySlIHWk3DFWbsvCHXV8f2Bs9Y40xufsVIBgFd6ZKr9nxj49cajVGiVufda5FdFbQ8flhbFyW/4Ur1JPKqPpW0xNlGyTK3CBiFEDubOKdKNaW8HNtYRybaDG7BAvsvU7Wg9CZYQuQoBdf09Sj2Xms/H3naUFYHrEil5kVp/oWVPrAI="
+
+
+IE - inject cookie
+-------------------
+javascript:document.cookie="newCookieName=newcookieValue";void(0);
+
+NAME  LtpaToken2 
+VALUE  /iGT03kw0V5CYNG3pSao6cIxJ5DPqN0JRwmNtU58pg/hrcW/FWKSKTLZs3564UJMFZkf2rwz96QMM/Ho2cWMyghlEjEqXRyMCpX7wANITFGRsQl8GrcLc3cuAwnstccpJa7+UbE6ldxOHhYEmJCOYvU8c8SMdZwfHRJb9NZtn9juCG41qnv1gqUghJJIW2kKCvGTEp5U2qniQk+8LQAkz6smnvExDdljHrTqOBJB4oKaW0lwY+/j8k0KgMKMOWpaUr4v5UOQMr7XENoB7+quNDZDDg7HHh+9erntiwgzbDOEBCsX/om1lOVKIhtfYF/yzgX52CNFIuAm5V6QPDoBcXgoWZcxSwK36BuysD9RI0msRhK0nE+9MYemAmTa6Wf2LBi1ERy9QmB3lUhOcM01J6ap2hDPFqG+Va4aCcrK6NLs9KYzuEBgVEStwXNk3ooodHK7JRajOt7kwKfdHF66+IbrsCLX/JnIh9A295bMuu9KU+W2EhX9xXSuf7ZDMesgDBm4QWJ61L+DU6WX9arfEvvOmuTcuqzfKCYM8UCVHKjohUkX48fYwGkDCLtNjWaz78hgaIK8QnME06VqHrJxlw6xuaVesILcnzJRR/Akuq071xQJxaRiUq/3Y/8dxXG9S9aSwHddto451itrf4jQVs7WrIX2zICgDf6S/oXjKIE= 
+DOMAIN  honda.ca 
+PATH  / 
+EXPIRES  At the end of the Session 
+
+
+IE- Decoded Token fom WAS6-UAT-IBM
+----------------------------------
+javascript:document.cookie="LtpaToken2=expire:1441922400000$host:Node01$java.naming.provider.url:corbaloc\:iiop\:Node01\:2888/WsnAdminNameService$port:8959$process.serverName:Cell01\:Node01\:PortalServer6$security.authMechOID:oid\:1.3.18.0.2.30.2$type:SOAP$u:user\:207.130.168.100\:389/CN=test5 user5,OU=Dealers,OU=User Management,DC=chtdmn,DC=honda,DC=ca%1441922400000%t4uXiuijpi5cR822/5InbP6iKpP2yFJBE58tDLDm+bb+2K6KSFYr5Y5kEcNk297cUWRxaZF4YY0vT6tHezGASEzwIIa8fizyPMHrijbGD5zu9AMIQnOvPliigBdJhTBdCE9VRvC2u2IpsuZvGzaMFmLsVxMK35XxnusuxPl0BWY="
+
+
+Run Configurations - for TokenLTPAFactory.java (ebtest3,test4)
+--------------------------------------------------------------
+-e2 "expire:1448912320000$host:Node01$java.naming.provider.url:corbaloc\:iiop\:Node01\:2888/WsnAdminNameService$port:8959$process.serverName:Cell01\:Node01\:PortalServer6$security.authMechOID:oid\:1.3.18.0.2.30.2$type:SOAP$u:user\:207.130.168.100\:389/CN=ebtest3,OU=Enterprise,OU=User Management,DC=chtdmn,DC=honda,DC=ca%1448912320000%5h57woSwdpvgIFL8cElG7X8jVjQyzgMzIVy92KzFFmZzroJzq0iRGhzHWuJ1rKQbbMxddiiqrHoDeMMBMvAdfoAvWDXRIo14QQ/333dLRSLhnw4/lIp59o7damPqKJX/Dsg9Agp78JGXfbWvXuuQdHs4UT0VVipu5CJ8Xa5SNuc="
+-e2 "expire:1448912320000$host:Node01$java.naming.provider.url:corbaloc\:iiop\:Node01\:2888/WsnAdminNameService$port:8959$process.serverName:Cell01\:Node01\:PortalServer6$security.authMechOID:oid\:1.3.18.0.2.30.2$type:SOAP$u:user\:207.130.168.100\:389/CN=test4 user4,OU=Dealers,OU=User Management,DC=chtdmn,DC=honda,DC=ca%1448912320000%5h57woSwdpvgIFL8cElG7X8jVjQyzgMzIVy92KzFFmZzroJzq0iRGhzHWuJ1rKQbbMxddiiqrHoDeMMBMvAdfoAvWDXRIo14QQ/333dLRSLhnw4/lIp59o7damPqKJX/Dsg9Agp78JGXfbWvXuuQdHs4UT0VVipu5CJ8Xa5SNuc="
